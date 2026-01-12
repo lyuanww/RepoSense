@@ -242,6 +242,11 @@
       "headingKeywords": {}
     },
     {
+      "src": "ug/chart-blurbs.md",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
       "src": "ug/cli.md",
       "title": "Appendix: CLI syntax reference",
       "headings": {
@@ -283,7 +288,8 @@
         "a-note-about-git-author-name": "A note about Git author name",
         "blurbs-markdown-files": "Blurbs Markdown files",
         "repo-blurbs-md": "repo-blurbs.md",
-        "author-blurbs-md": "author-blurbs.md"
+        "author-blurbs-md": "author-blurbs.md",
+        "chart-blurbs-md": "chart-blurbs.md"
       },
       "headingKeywords": {}
     },
@@ -339,6 +345,17 @@
         "1-explore-real-life-examples": "1 Explore real-life examples",
         "2-generate-your-own-reports": "2 Generate your own reports",
         "3-share-your-reports": "3 Share your reports"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "ug/portfolioMode.md",
+      "headings": {
+        "portfolio-mode-ui": "Portfolio Mode UI",
+        "when-to-use-portfolio-mode": "When to use Portfolio Mode?",
+        "key-features": "Key Features:",
+        "ui-comparison": "UI Comparison:",
+        "notes": "Notes"
       },
       "headingKeywords": {}
     },
